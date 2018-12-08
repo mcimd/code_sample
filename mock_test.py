@@ -1,7 +1,7 @@
 import requests
 import requests_mock
 
-# !!!!This is Mock Testing!!!!!
+# !!!!This is Mock
 class TestClass(object):
     def test_mock(self):
         with requests_mock.Mocker() as m:
